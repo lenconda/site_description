@@ -16,6 +16,10 @@
     "href": "/#/artworks"
   },
   {
+    "name": "关于我",
+    "href": "https://blog.lenconda.top/about"
+  },
+  {
     "name": "Follow Me",
     "href": "https://github.com/lenconda"
   }
