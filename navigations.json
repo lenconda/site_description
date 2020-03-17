@@ -1,19 +1,19 @@
 [
   {
-    "name": "博客",
+    "name": "技术博客",
     "href": "https://blog.lenconda.top"
   },
   {
-    "name": "简历",
+    "name": "个人简历",
     "href": "https://resume.lenconda.top"
   },
   {
     "name": "开源项目",
-    "href": "https://lenconda.top/#/projects"
+    "href": "/projects"
   },
   {
     "name": "艺术创作",
-    "href": "https://lenconda.top/#/artworks"
+    "href": "/artworks"
   },
   {
     "name": "Follow Me",
