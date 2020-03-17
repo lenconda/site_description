@@ -15,11 +15,6 @@
     "href": "https://www.npmjs.com/package/@lenconda/generator-react-app"
   },
   {
-    "name": "@lenconda/generator-react-app",
-    "description": "基于 Yeoman 的轻量级 React 脚手架",
-    "href": "https://www.npmjs.com/package/@lenconda/generator-react-app"
-  },
-  {
     "name": "free-proxy",
     "description": "获取免费的 HTTP 代理",
     "href": "https://www.npmjs.com/package/free-proxy"
